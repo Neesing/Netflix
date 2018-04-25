@@ -1,5 +1,3 @@
-# Netflix
-Reccomendation system
 
 Netflix recommendation system using Spark and AWS
 
