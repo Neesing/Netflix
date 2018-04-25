@@ -3,8 +3,8 @@
 
 Netflix is the worlds largest streaming services, with 80 million members in over 250 countries. The aim of this project is to predict user ratings and recommend movies. 
 
-Getting and processing the data
-In order to build a movie recommendation system
+Downloading and processing the data
+In order to build a movie recommendation system*****
 
 DATASET DESCRIPTION
 Training dataset:
@@ -24,6 +24,8 @@ Example :
 893988,3,2005-11-17
 124105,4,2004-08-05
 1248029,3,2004-04-22
+
+All these are combined in 4 files in the same format which can be downloaded from the link given bellow.
 
 
 Movie file description
@@ -45,8 +47,6 @@ Example :
 6,1997,Sick
 7,1992,8 Man
 8,2004,What the #$*! Do We Know!?
-
-
 
 
 Prediction dataset
