@@ -1,5 +1,5 @@
 
-                                    Netflix recommendation system using Spark and AWS
+                                   Netflix recommendation system using Spark and AWS
 
 NETFLIX is the world’s largest streaming services, with 80 million members in over 250 countries. It allows users to watch a wide variety of movies, TV shows, documentaries and more. The more you watch Netflix, the better it aims to understand your tastes by compiling a profile based on recurring tags in the shows you are watching.
 The aim of this project is to predict user ratings and recommend movies. All together dataset consists of 17000movies and 500000customers
